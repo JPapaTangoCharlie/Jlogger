@@ -1,5 +1,6 @@
 /**
  * Jlogger class for logging formated messages with timestamps and optional widget output.
+ * 12/2/2024 - Committed & Shared.
  */
 class Jlogger {
     #showOutput;
