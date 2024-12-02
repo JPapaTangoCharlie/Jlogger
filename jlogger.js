@@ -1,5 +1,5 @@
 /**
- * Jlogger class for logging messages with timestamps and optional widget output.
+ * Jlogger class for logging formated messages with timestamps and optional widget output.
  */
 class Jlogger {
     #showOutput;
